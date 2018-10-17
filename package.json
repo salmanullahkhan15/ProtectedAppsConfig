@@ -1,0 +1,22 @@
+{
+  "name": "cordova.plugin.protectedappsconfig",
+  "version": "0.0.1",
+  "description": "This plugin will open protected apps config in china devices",
+  "cordova": {
+    "id": "cordova.plugin.protectedappsconfig",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmanullahkhan15/ProtectedAppsConfig.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Salman Ullah Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmanullahkhan15/ProtectedAppsConfig/issues"
+  },
+  "homepage": "https://github.com/salmanullahkhan15/ProtectedAppsConfig#readme"
+}
